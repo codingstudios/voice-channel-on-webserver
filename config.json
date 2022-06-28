@@ -2,5 +2,5 @@
   "token": "BOT_TOKEN",
   "voiceChannelID": "VOICE_CHANNEL_ID",
   "PORT": "HTTP_PORT",
-
+  "audioID": "USER'S_ID_TO_LISTEN_TO"
 }
