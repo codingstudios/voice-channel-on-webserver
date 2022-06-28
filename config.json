@@ -1,0 +1,6 @@
+{
+  "token": "BOT_TOKEN",
+  "voiceChannelID": "VOICE_CHANNEL_ID",
+  "PORT": "HTTP_PORT",
+
+}
